@@ -9,7 +9,8 @@
     --color-primary: #5956E8; 
     --color-backC: #181818; 
     --color-service: #E3E3E3; 
-    
+    --color-uxc: #5D5D5D; 
+    --color-icon: #33CCFF;
 
 /* color costom File End */
 
@@ -28,6 +29,12 @@
     --spacing-mycontainer: 1170px; 
 
     /* container costom File End */
+
+    /* Box shadow Part Start  */
+
+    --shadow-bsp: 0px 0px 5px -2px rgba(0,0,0,0.59);   
+
+     /* Box shadow Part End  */
    
   }
  
